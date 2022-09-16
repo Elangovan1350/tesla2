@@ -17,6 +17,7 @@ body{
     border: 3px #020E14 solid;
     border-radius: 50px;
     overflow: hidden;
+    border: none;
 }
 .image{
     width: 300px;
